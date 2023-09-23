@@ -9,15 +9,15 @@
 
 ## About Java BMR Calcculator 
 
-LOne popular way to estimateTrusted Source BMR is through the Harris-Benedict formula, which takes into account weight, height, age, and sex.
+One popular way to estimateTrusted Source BMR is through the Harris-Benedict formula, which takes into account weight, height, age, and sex.
 
 Females assigned at birth (FAABs)
 
-BMR = 655 + (9.6 x weight in kg) + (1.8 x height in cm) – (4.7 x age in years)
+BMR = 655 + (4.3 x weight in pounds) + (4.7 x height in inches) – (4.7 x age in years)
 
 Males assigned at birth (MAABs)
 
-66 + (13.7 x weight in kg) + (5 x height in cm) – (6.8 x age in years)
+66 + (6.3 x weight in pb) + (12.9 x height in inches) – (6.8 x age in years)
 
 Why you might want to know your BMR 
 Your BMR can be used to help you gain, lose, or maintain your weight. By knowing how many calories you burn, you can know how many to consume. To put it simply:
@@ -47,19 +47,6 @@ For this reason, your BMR might not give you the full context you need to unders
 
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications.
 
-## Starting legool
-
-Legool runs on php 7.4, to initialize the leggol app,
-First thing first, clone your Laravel project from git then put it into your local server. Make sure your local server is running. Open your project in terminal then
-
-1. Install php 7.3
-2. Install composer
-3. run command
-   "composer install --no-plugins"
-   "set up .env "
-   "set up database
-   "php artisan key:generate"
-   "php artisan serve"
 
 First thing first, clone your Laravel project from git then put it into your local server. Make sure your local server is running. Open your project in terminal then run composer install command.
 

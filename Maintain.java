@@ -70,7 +70,7 @@ class Maintain {
 
 				// Calories needed for woman to maintain her weight
 				// Basic Metabolic Rate (BMR)
-				BMR = 655.0 + (4.3 * weightPb) + (4.7 * heightIn) - (4.7 * ageYr);
+				BMR = 655 + (4.3 * weightPb) + (4.7 * heightIn) - (4.7 * ageYr);
 				System.out.println("A woman with weight of " + weightPb + "pounds and is " + heightIn +
 						"inches tall, can consume " + BMR + "kcal of " + itemName + " daily to maintain her weight.");
 
